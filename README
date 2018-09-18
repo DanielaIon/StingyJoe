@@ -27,9 +27,9 @@ solveSimple: Determina cel mai scurt drum dintre doua orase.
     de haskell.
 
 solveCosts : Joe trebuie sa isi viziteze prietenul dintr-un alt oras insa cum este 
-						un tip zgarcit alege o suma (relativ mica) pe care sa o foloseasca
-						in calatoria sa. Scopul este de a determina cel mai scurt traseu
-						pe care Joe si-l permite.
+		un tip zgarcit alege o suma (relativ mica) pe care sa o foloseasca
+		in calatoria sa. Scopul este de a determina cel mai scurt traseu
+		pe care Joe si-l permite.
 
         Am aplicat acelasi algoritm de la task-ul anterior caruia i-am adus mici 
     modificari si adaugari de noi functii. Una dintre modificari ar fi ca la fiecare
